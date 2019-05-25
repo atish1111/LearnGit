@@ -17,3 +17,7 @@ def divide(x,y):
 def square(x,y): 
 
     pass 
+
+def mod(x,y):
+    pass
+
