@@ -12,12 +12,13 @@ def multiply(x,y):
 
 def divide(x,y): 
 
-    pass 
-
+    pass
 def square(x,y): 
 
     pass 
 
 def mod(x,y):
+    pass
+def newfeature1(x, y)
     pass
 
